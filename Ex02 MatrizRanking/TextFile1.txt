@@ -1,0 +1,10 @@
+﻿
+
+Enunciado
+Dada uma matriz (ou array) de pontuações, retorne a matriz de 
+classificações para cada valor na matriz. O maior valor tem rank 1, 
+o segundo maior valor tem rank 2 e assim por diante. 
+Os empates devem ser tratados atribuindo a mesma classificação a 
+todos os valores empatados. Por exemplo: ranks([9,3,6,10]) = [2,4,3,1]
+
+ranks([3,3,3,3,3,5,1]) = [2,2,2,2,2,1,7]

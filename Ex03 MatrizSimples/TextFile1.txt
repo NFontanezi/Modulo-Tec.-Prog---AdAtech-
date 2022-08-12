@@ -1,0 +1,6 @@
+﻿
+
+Enunciado
+Peça ao usuário uma quantidade de linhas e e outra de colunas,
+depois declare tal matriz, inicialize todos os elementos de 1 
+até 'linha x coluna'.

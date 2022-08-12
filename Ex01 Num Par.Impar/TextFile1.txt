@@ -1,0 +1,7 @@
+﻿
+Enunciado Questao#1
+
+Escreva uma aplicação no qual o usuário deverá informar 10 números inteiro e
+maiores que zero em um array. Em um segundo array, armazene apenas os números
+pares e em um terceiro apenas os ímpares. Exiba os 3 arrays, todos em ordem
+crescente.
